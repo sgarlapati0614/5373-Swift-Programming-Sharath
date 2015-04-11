@@ -10,6 +10,8 @@ Now-a-days the difficult to tracking the mobile devices has become an issue. Var
 
 ### References:
 [1] Mista, C., Kottege, N., Kusy, B., Ostry, D., Jha, S., Acoustical ranging techniques in embedded wireless sensor networked devices, ACM Transactions on Sensor Networks (TOSN),  10, (Nov,2013).
+
 [2] Kenteris, M., Gavalas, D., Economou, D., Electronic mobile guides: a survey, Personal and Ubiquitous Computing,15, (Jan,2011), 97-111.
+
 [3] Gosai, A., Raval, R.,  Real Time Location based Tracking using WIFI Signals, International Journal of Computer Applications, 101, (Sep,2014), (0975 – 8887).
 
