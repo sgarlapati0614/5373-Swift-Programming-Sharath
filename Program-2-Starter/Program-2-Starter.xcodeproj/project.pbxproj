@@ -7,9 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3BECF8FD1AF8FBA80097CE0E /* transparent_flower.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3BECF8FC1AF8FBA80097CE0E /* transparent_flower.jpg */; };
-		3BECF9031AF8FF770097CE0E /* images1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BECF9021AF8FF770097CE0E /* images1.png */; };
-		3BECF9051AF9031F0097CE0E /* imu.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BECF9041AF9031F0097CE0E /* imu.png */; };
+		3F3AD2B41AFA985600E38F2D /* imu1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F3AD2B31AFA985600E38F2D /* imu1.png */; };
 		857CC41B1AC09C6000AF61ED /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 857CC41A1AC09C6000AF61ED /* AppDelegate.swift */; };
 		857CC41D1AC09C6000AF61ED /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 857CC41C1AC09C6000AF61ED /* ViewController.swift */; };
 		857CC4201AC09C6000AF61ED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 857CC41E1AC09C6000AF61ED /* Main.storyboard */; };
@@ -112,9 +110,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		3BECF8FC1AF8FBA80097CE0E /* transparent_flower.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = transparent_flower.jpg; path = ../../transparent_flower.jpg; sourceTree = "<group>"; };
-		3BECF9021AF8FF770097CE0E /* images1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = images1.png; path = ../../images1.png; sourceTree = "<group>"; };
-		3BECF9041AF9031F0097CE0E /* imu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = imu.png; path = ../../imu.png; sourceTree = "<group>"; };
+		3F3AD2B31AFA985600E38F2D /* imu1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = imu1.png; path = ../../../.Trash/imu1.png; sourceTree = "<group>"; };
 		857CC4151AC09C6000AF61ED /* Program-2-Starter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Program-2-Starter.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		857CC4191AC09C6000AF61ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		857CC41A1AC09C6000AF61ED /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -270,11 +266,9 @@
 				857CC44B1AC09DFC00AF61ED /* t4.png */,
 				857CC44C1AC09DFC00AF61ED /* t5.png */,
 				857CC44D1AC09DFC00AF61ED /* t6.png */,
-				3BECF9021AF8FF770097CE0E /* images1.png */,
 				857CC44E1AC09DFC00AF61ED /* t7.png */,
 				857CC44F1AC09DFC00AF61ED /* t8.png */,
-				3BECF9041AF9031F0097CE0E /* imu.png */,
-				3BECF8FC1AF8FBA80097CE0E /* transparent_flower.jpg */,
+				3F3AD2B31AFA985600E38F2D /* imu1.png */,
 				857CC4501AC09DFC00AF61ED /* t9.png */,
 				857CC4511AC09DFC00AF61ED /* t10.png */,
 				857CC4521AC09DFC00AF61ED /* t11.png */,
@@ -503,11 +497,11 @@
 				857CC4961AC09DFC00AF61ED /* t1.png in Resources */,
 				857CC4AE1AC09DFC00AF61ED /* t25.png in Resources */,
 				857CC49D1AC09DFC00AF61ED /* t8.png in Resources */,
-				3BECF9031AF8FF770097CE0E /* images1.png in Resources */,
 				857CC4C51AC09DFC00AF61ED /* t48.png in Resources */,
 				857CC4AD1AC09DFC00AF61ED /* t24.png in Resources */,
 				857CC4CA1AC09DFC00AF61ED /* t53.png in Resources */,
 				857CC4991AC09DFC00AF61ED /* t4.png in Resources */,
+				3F3AD2B41AFA985600E38F2D /* imu1.png in Resources */,
 				857CC4971AC09DFC00AF61ED /* t2.png in Resources */,
 				857CC49C1AC09DFC00AF61ED /* t7.png in Resources */,
 				857CC4DB1AC09DFC00AF61ED /* t70.png in Resources */,
@@ -553,9 +547,7 @@
 				857CC4B41AC09DFC00AF61ED /* t31.png in Resources */,
 				857CC4221AC09C6000AF61ED /* Images.xcassets in Resources */,
 				857CC4C71AC09DFC00AF61ED /* t50.png in Resources */,
-				3BECF8FD1AF8FBA80097CE0E /* transparent_flower.jpg in Resources */,
 				857CC4CD1AC09DFC00AF61ED /* t56.png in Resources */,
-				3BECF9051AF9031F0097CE0E /* imu.png in Resources */,
 				857CC4B01AC09DFC00AF61ED /* t27.png in Resources */,
 				857CC4B31AC09DFC00AF61ED /* t30.png in Resources */,
 			);

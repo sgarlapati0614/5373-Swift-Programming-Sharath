@@ -13,11 +13,6 @@ class SecondViewController: UIViewController {
 
     @IBOutlet weak var mapView: MKMapView!
     
-    
-    
-
-    
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         let model = (self.tabBarController as CustomTabBarController).model

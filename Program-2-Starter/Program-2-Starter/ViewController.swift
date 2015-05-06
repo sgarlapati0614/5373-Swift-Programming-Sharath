@@ -26,7 +26,10 @@ class ViewController: UIViewController , ColorTableViewControllerDelegate{
     
     var myColors:Colors = Colors()
     
+    @IBOutlet weak var HistLbl1: UILabel!
     @IBOutlet weak var chosenColorLabel: UILabel!
+    @IBOutlet weak var HistLbl2: UILabel!
+    @IBOutlet weak var HistLbl3: UILabel!
     @IBOutlet weak var colorItemsLabel: UILabel!
     
     /*@IBOutlet weak var redSlider: UISlider!
@@ -40,6 +43,9 @@ class ViewController: UIViewController , ColorTableViewControllerDelegate{
     @IBOutlet weak var H2: UITextField!
     override func viewDidLoad() {
         super.viewDidLoad()
+        HistLbl2.text=""
+        HistLbl1.text=""
+        HistLbl3.text=""
         request(.GET, "http://cs.mwsu.edu/~griffin/swift/colors2.json")
             
             //Fetch the Json color object from the CS server
@@ -104,8 +110,12 @@ class ViewController: UIViewController , ColorTableViewControllerDelegate{
     func ColorTableViewChooseColor(controller: ColorTableViewController, chosenColor color: String){
         dismissViewControllerAnimated(true, completion: nil)
         let labelColor:UIColor = myColors.hexStringToUIColor(myColors.fetchHexValue(color))
+        HistLbl3.backgroundColor=HistLbl2.backgroundColor
+        HistLbl2.backgroundColor=HistLbl1.backgroundColor
+        
         chosenColorLabel.backgroundColor = labelColor
         colorItemsLabel.text = color
+        HistLbl1.backgroundColor = labelColor
         
         let rgb = myColors.fetchRGB(color)
         let r = Float(255*rgb.R)
