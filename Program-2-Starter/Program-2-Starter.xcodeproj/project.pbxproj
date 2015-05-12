@@ -7,8 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+<<<<<<< HEAD
 		3F3AD2BC1AFAB0AE00E38F2D /* imu1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F3AD2BB1AFAB0AE00E38F2D /* imu1.png */; };
 		3F3AD2BE1AFAB0C100E38F2D /* imu1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F3AD2BD1AFAB0C100E38F2D /* imu1.png */; };
+=======
+		3F3AD2B41AFA985600E38F2D /* imu1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F3AD2B31AFA985600E38F2D /* imu1.png */; };
+>>>>>>> c4350779671f31f91ac75f166722252ba920158c
 		857CC41B1AC09C6000AF61ED /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 857CC41A1AC09C6000AF61ED /* AppDelegate.swift */; };
 		857CC41D1AC09C6000AF61ED /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 857CC41C1AC09C6000AF61ED /* ViewController.swift */; };
 		857CC4201AC09C6000AF61ED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 857CC41E1AC09C6000AF61ED /* Main.storyboard */; };
@@ -111,8 +115,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+<<<<<<< HEAD
 		3F3AD2BB1AFAB0AE00E38F2D /* imu1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = imu1.png; path = ../../../imu1.png; sourceTree = "<group>"; };
 		3F3AD2BD1AFAB0C100E38F2D /* imu1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = imu1.png; path = ../../../imu1.png; sourceTree = "<group>"; };
+=======
+		3F3AD2B31AFA985600E38F2D /* imu1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = imu1.png; path = ../../../.Trash/imu1.png; sourceTree = "<group>"; };
+>>>>>>> c4350779671f31f91ac75f166722252ba920158c
 		857CC4151AC09C6000AF61ED /* Program-2-Starter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Program-2-Starter.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		857CC4191AC09C6000AF61ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		857CC41A1AC09C6000AF61ED /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -268,9 +276,15 @@
 				857CC44B1AC09DFC00AF61ED /* t4.png */,
 				857CC44C1AC09DFC00AF61ED /* t5.png */,
 				857CC44D1AC09DFC00AF61ED /* t6.png */,
+<<<<<<< HEAD
 				3F3AD2BB1AFAB0AE00E38F2D /* imu1.png */,
 				857CC44E1AC09DFC00AF61ED /* t7.png */,
 				857CC44F1AC09DFC00AF61ED /* t8.png */,
+=======
+				857CC44E1AC09DFC00AF61ED /* t7.png */,
+				857CC44F1AC09DFC00AF61ED /* t8.png */,
+				3F3AD2B31AFA985600E38F2D /* imu1.png */,
+>>>>>>> c4350779671f31f91ac75f166722252ba920158c
 				857CC4501AC09DFC00AF61ED /* t9.png */,
 				857CC4511AC09DFC00AF61ED /* t10.png */,
 				857CC4521AC09DFC00AF61ED /* t11.png */,
@@ -504,6 +518,7 @@
 				857CC4AD1AC09DFC00AF61ED /* t24.png in Resources */,
 				857CC4CA1AC09DFC00AF61ED /* t53.png in Resources */,
 				857CC4991AC09DFC00AF61ED /* t4.png in Resources */,
+				3F3AD2B41AFA985600E38F2D /* imu1.png in Resources */,
 				857CC4971AC09DFC00AF61ED /* t2.png in Resources */,
 				857CC49C1AC09DFC00AF61ED /* t7.png in Resources */,
 				857CC4DB1AC09DFC00AF61ED /* t70.png in Resources */,
