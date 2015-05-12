@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>54555968-9DDF-4A6A-9BAF-399163A9170F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BullsEye sharath</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>79FF80768F9C86FB9B7C3BAD3E3CF70C53F5B8AB</key>
+		<string>https://github.com/sgarlapati0614/5373-Swift-Programming-Sharath.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BullsEye/BullsEye sharath.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>79FF80768F9C86FB9B7C3BAD3E3CF70C53F5B8AB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sgarlapati0614/5373-Swift-Programming-Sharath.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>79FF80768F9C86FB9B7C3BAD3E3CF70C53F5B8AB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>79FF80768F9C86FB9B7C3BAD3E3CF70C53F5B8AB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>5373-Swift-Programming-Sharath</string>
+		</dict>
+	</array>
+</dict>
+</plist>

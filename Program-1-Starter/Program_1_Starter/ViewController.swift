@@ -109,7 +109,6 @@ class ViewController: UIViewController {
         }else{
             lblCorrectIncorrect.text = "Incorrect!"
         }
-        button1Correct = false
         matchColorLogic()
     }
     
@@ -120,7 +119,6 @@ class ViewController: UIViewController {
         }else{
             lblCorrectIncorrect.text = "Incorrect!"
         }
-        button2Correct = false
         matchColorLogic()
     }
     
@@ -131,7 +129,6 @@ class ViewController: UIViewController {
         }else{
             lblCorrectIncorrect.text = "Incorrect!"
         }
-        button3Correct = false
         matchColorLogic()
     }
     
@@ -143,6 +140,9 @@ class ViewController: UIViewController {
     
     func matchColorLogic() -> Bool{
         
+        button1Correct = false
+        button2Correct = false
+        button3Correct = false
         //Example usage of the Colors class
         var randColor = self.myColors.fetchRandomColor()
         

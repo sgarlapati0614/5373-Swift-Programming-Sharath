@@ -2,7 +2,7 @@
 //  CustomTabBarController.swift
 //  MyLocations
 //
-//  Created by Student on 4/10/15.
+//  Created by Student-Guest on 4/17/15.
 //  Copyright (c) 2015 mwsu. All rights reserved.
 //
 
@@ -12,7 +12,7 @@ import UIKit
 // This class holds the data for my model.
 class ModelData {
     var lat = 0.0
-    var lon = 0.0
+    var long = 0.0
 }
 
 class CustomTabBarController: UITabBarController {
